@@ -8,7 +8,7 @@ on:
     
 env:              
   ROM_URL: https://ip169780084.out.azhimalayanvh.com/Firmware/Flyme/16T/8.1.5.0/cn/20210416105358/37ec6058/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=adc877ed3ebafdd847eb75e99ad75167fc39013871ac01b4&ali_redirect_ex_tmining_ts=1626075519&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
-  ZIP_NAME: test.zip
+  ZIP_NAME: .zip
   OS_TYPE: flyme
   BUILD_TYPE: 'ab'
   REPACK_NAME: test_action.zip
